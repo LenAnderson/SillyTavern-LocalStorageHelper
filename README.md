@@ -17,7 +17,7 @@ https://github.com/LenAnderson/SillyTavern-LocalStorageHelper
 
 Extensions > Local Storage Helper
 
-- **Download localStoage** to download a JSON file with all the settings only stored locally in your browser
+- **Download localStorage** to download a JSON file with all the settings only stored locally in your browser
 - **Upload localStorage** to upload an exported JSON file and apply the settings
 
 
